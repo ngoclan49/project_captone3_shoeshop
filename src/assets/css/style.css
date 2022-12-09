@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar-home {
+    font-size: 20px !important;
+    font-weight: 400;
+    color: #000000;
+}
+
+.product-name {
+    font-size: 40px !important;
+    font-weight: 300;
+    position: absolute;
+    top: 124px;
+    left: 930px;
+}
